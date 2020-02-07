@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TASKS 1.iml" filepath="$PROJECT_DIR$/TASKS 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poem/poem.iml" filepath="$PROJECT_DIR$/poem/poem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poem-with-numbers/poem-with-numbers.iml" filepath="$PROJECT_DIR$/poem-with-numbers/poem-with-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-map/product-map.iml" filepath="$PROJECT_DIR$/product-map/product-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-set/product-set.iml" filepath="$PROJECT_DIR$/product-set/product-set.iml" />
     </modules>
   </component>
 </project>
